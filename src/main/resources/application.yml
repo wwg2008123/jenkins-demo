@@ -1,0 +1,4 @@
+server:
+  port: 6606
+  servlet:
+    application-display-name: wwgdemo
